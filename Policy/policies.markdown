@@ -43,8 +43,7 @@ Income is split in the following fashion: 25% always remains in the Collective t
 The Collective will keep running totals of how many hours each member has worked and how much income the Collective has received. At the end of every four-week pay period, each member will receive pay up to the least of the following:
 
 * the difference, if positive, between earnings to-date (calculation detailed below) and pay to-date,
-* $5750 per pay period (this constraint is waived in the last pay period of the fiscal year),
-* and $75,000 in a fiscal year.
+* and $75,000 in a fiscal year, calculated pro rata each pay period.
 
 The calculation for individual earnings to-date in a fiscal year is:
 
