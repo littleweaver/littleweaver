@@ -13,9 +13,9 @@ All members of the Collective legally have equal ownership of the Collective’s
 Decisions are made by informal consensus consisting of bringing a proposal to all members, airing concerns, and coming to a unanimous decision. All policy is up for discussion at any time. All major decisions of the Collective must be unanimous. Major decisions include:
 
 * adding and removing members,
-* making or changing policies, 
-* taking on projects, 
-* spending the Collective’s money, 
+* making or changing policies,
+* taking on projects,
+* spending the Collective’s money,
 * and publishing Collective projects.
 
 Work
@@ -32,8 +32,6 @@ Each member must work a minimum of 40 hours per four-week pay period. Work hours
 Members may not work more than 60 hours per week, because life outside of work is also important.
 
 Pay periods are four weeks long, starting on a Monday and ending on a Sunday. Pay periods are a part of the fiscal year in which they end.
-
-SPRING 2014: Naomi Morduch Toubman must work a minimum of 20 hours per four-week pay period, instead of the standard 40, until June 1st 2014.
 
 Income
 ------
