@@ -1,5 +1,5 @@
-Little Weaver Web Collective Policies
-=====================================
+Little Weaver Web Collective, LLC Policies
+==========================================
 
 Work
 ----

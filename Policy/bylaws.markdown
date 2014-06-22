@@ -1,5 +1,5 @@
-Little Weaver Web Collective Bylaws
-===================================
+Little Weaver Web Collective, LLC Bylaws
+========================================
 
 Mission Statement
 -----------------
@@ -24,4 +24,5 @@ Decisions are made by informal consensus consisting of bringing a proposal to al
 * making or changing policies,
 * taking on projects,
 * spending the Collective’s money,
-* and publishing Collective projects.
+* publishing Collective projects,
+* and changing the Bylaws.
