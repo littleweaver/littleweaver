@@ -37,7 +37,7 @@ Client Work
 
 ### Rates
 
-Rates will be negotiated with every client and written into their contract. The Collective’s base rate is $100 per hour. Retained hours will be billed at a 20% discount. Emergency hours (as defined in the contract) are billed at 125% of the standard rate. All work qualifies for these rates, including time spent writing emails, giving trainings, and attending meetings. No client's existing code will ever be intentionally changed without a contract.
+Rates will be negotiated with every client and written into their contract. The Collective’s base rate is $100 per hour. Retained hours will be billed at a 20% discount. Emergency hours (as defined in the contract) are billed at 125% of the standard rate. All work qualifies for these rates, including time spent writing emails, giving trainings, and attending meetings. Code running on a production server will never be intentionally modified or upgraded without a contract.
 
 ### Open Source
 
