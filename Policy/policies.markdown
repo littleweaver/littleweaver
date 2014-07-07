@@ -1,22 +1,5 @@
-Little Weaver Web Collective Policies
-=====================================
-
-Ownership and Decision Making
------------------------------
-
-### Ownership
-
-All members of the Collective legally have equal ownership of the Collective’s assets, but the Collective’s assets are considered to be set aside for the use by the entire Collective. Therefore, if a member leaves, they do not receive any portion of the Collective’s assets. Upon dissolution, savings will by default be divided equally among all members.
-
-### Decision-Making
-
-Decisions are made by informal consensus consisting of bringing a proposal to all members, airing concerns, and coming to a unanimous decision. All policy is up for discussion at any time. All major decisions of the Collective must be unanimous. Major decisions include:
-
-* adding and removing members,
-* making or changing policies,
-* taking on projects,
-* spending the Collective’s money,
-* and publishing Collective projects.
+Little Weaver Web Collective, LLC Policies
+==========================================
 
 Work
 ----
@@ -54,7 +37,7 @@ Client Work
 
 ### Rates
 
-Rates will be negotiated with every client and written into their contract. The Collective’s base rate is $100 per hour. Retained hours will be billed at a 20% discount. Emergency hours (as defined in the contract) are billed at 125% of the standard rate. All work qualifies for these rates, including time spent writing emails, giving trainings, and attending meetings.
+Rates will be negotiated with every client and written into their contract. The Collective’s base rate is $100 per hour. Retained hours will be billed at a 20% discount. Emergency hours (as defined in the contract) are billed at 125% of the standard rate. All work qualifies for these rates, including time spent writing emails, giving trainings, and attending meetings. Code running on a production server will never be intentionally modified or upgraded without a contract.
 
 ### Open Source
 
