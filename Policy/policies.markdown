@@ -21,10 +21,9 @@ Income
 
 Income is split in the following fashion: 25% always remains in the Collective to cover shared expenses. 75% is distributed to the members as follows, with any excess returning to the Collective:
 
-The Collective will keep running totals of how many hours each member has worked and how much income the Collective has received. At the end of every four-week pay period, each member will receive pay up to the least of the following:
+The Collective will keep running totals of how many hours each member has worked and how much income the Collective has received. At the end of every four-week pay period, each member will receive pay up to the least of the following, if that pay will be at least $25:
 
-* $0,
-* the difference, if at least $25, between earnings to-date (calculation detailed below) and pay to-date,
+* the difference between earnings to-date (calculation detailed below) and pay to-date,
 * and $75,000 in a fiscal year, calculated pro rata each pay period.
 
 The calculation for individual earnings to-date in a fiscal year is:
