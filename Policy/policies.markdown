@@ -19,7 +19,7 @@ Pay periods are four weeks long, starting on a Monday and ending on a Sunday. Pa
 Income
 ------
 
-Income is split in the following fashion: 25% always remains in the Collective to cover shared expenses. 75% is distributed to the members as follows, with any excess returning to the Collective:
+Income is split in the following fashion: 20% always remains in the Collective to cover shared expenses. 80% is distributed to the members as follows, with any excess returning to the Collective:
 
 The Collective will keep running totals of how many hours each member has worked and how much income the Collective has received. At the end of every four-week pay period, each member will receive pay up to the least of the following, if that pay will be at least $25:
 
@@ -29,10 +29,10 @@ The Collective will keep running totals of how many hours each member has worked
 The calculation for individual earnings to-date in a fiscal year is:
 
     total hours worked by individual
-    --------------------------------- * 0.75 * gross Collective income
+    --------------------------------- * 0.8 * gross Collective income
     total hours worked by all members
 
-In the event that pay for at least one member is negative, the appropriate positive pay for any members will be paid, if possible, out of the 25% of income reserved for the collective.
+In the event that pay for at least one member is negative, the appropriate positive pay for any members will be paid, if possible, out of the 20% of income reserved for the collective.
 
 Client Work
 -----------
