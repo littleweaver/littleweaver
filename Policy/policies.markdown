@@ -1,7 +1,6 @@
 Little Weaver Web Collective, LLC Policies
 ==========================================
 
-
 Work
 ----
 
