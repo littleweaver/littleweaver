@@ -12,6 +12,8 @@ Our work is built on the work of others; we give back by providing high-quality,
 Membership
 ----------
 
+### Rights and Responsibilities
+
 Being a member of Little Weaver Web Collective requires adherence to the Little Weaver mission and to its bylaws and policies. Adherence to individual policies may be waived for certain periods of time and on a case-by-case basis.
 
 Membership also comes with the following rights:
@@ -19,6 +21,18 @@ Membership also comes with the following rights:
 * being a voting participant in collective decision-making.
 * partial legal ownership of the company.
 * payment in accordance with Little Weaver policies (currently sharing 80% of profits, divided by percentage of hours worked, as detailed in “Income”).
+
+### Exit
+
+A member does not receive any portion of the company money upon exit. Pay calculation is not affected for the period in which the member leaves.
+
+#### Voluntary Exit
+
+An exit is considered voluntary with four weeks notice or the approval of the current membership.
+
+#### Expulsion
+
+If any member fails to adhere to the Little Weaver mission and to its bylaws and policies and they are not excused by the rest of the collective, an expulsion meeting may be held. An expulsion meeting consists of two parts: a conversation between the violating member and the rest of the collective, followed by a Collective decision-making process, excluding the violating member, which determines whether to expel the violating member or excuse the violation.
 
 
 Ownership and Decision Making
