@@ -14,7 +14,7 @@ Membership
 
 Being a member of Little Weaver Web Collective requires adherence to the Little Weaver mission and to its bylaws and policies. Adherence to individual policies may be waived for certain periods of time and on a case-by-case basis.
 
-Membership also comes with these rights:
+Membership also comes with the following rights:
 
 * being a voting participant in collective decision-making.
 * partial legal ownership of the company.
