@@ -1,6 +1,7 @@
 Little Weaver Web Collective, LLC Policies
 ==========================================
 
+
 Work
 ----
 
@@ -15,6 +16,7 @@ Each member must work a minimum of 40 hours per four-week pay period. Work hours
 Members may not work more than 60 hours per week, because life outside of work is also important.
 
 Pay periods are four weeks long, starting on a Monday and ending on a Sunday. Pay periods are a part of the fiscal year in which they end. Paychecks will be cut no sooner than the weekly meeting following the end of a pay period, and no later than the Wednesday following the end of the pay period. (There is a delay between when the online request is made and when the checks are actually mailed; this is not accounted for in this policy.)
+
 
 Income
 ------
@@ -34,6 +36,7 @@ The calculation for individual earnings to-date in a fiscal year is:
 
 In the event that pay for at least one member is negative, the appropriate positive pay for any members will be paid, if possible, out of the 20% of income reserved for the collective.
 
+
 Client Work
 -----------
 
@@ -44,6 +47,7 @@ Rates will be negotiated with every client and written into their contract. The 
 ### Open Source
 
 We require that clients agree that we may contribute to existing open-source projects as part of our work for the client. We require further that clients allow us to open-source as much of the code written for them as is reasonable.
+
 
 Collective Projects
 -------------------
