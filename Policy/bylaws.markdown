@@ -9,8 +9,27 @@ We are committed to making socially responsible choices and encouraging our clie
 Our work is built on the work of others; we give back by providing high-quality, reusable, open-source code as a resource for the development of a better internet.
 
 
+Membership
+----------
+
+Being a member of Little Weaver Web Collective entails the following responsibilities, some of which may be waived for certain periods of time and on a case-by-case basis:
+
+* completion of the minimum number of work hours each pay period (currently 40 hrs per 4 week period).
+* attendance at all-member meetings (currently held weekly).
+* adherence to the Little Weaver mission and to its bylaws and policies.
+
+Membership also comes with these rights:
+
+* being a voting participant in collective decision-making.
+* partial legal ownership of the company.
+* payment in accordance with Little Weaver policies (currently sharing 80% of profits, divided by percentage of hours worked, as detailed in “Income”).
+
+
+
 Ownership and Decision Making
 -----------------------------
+
+The following are rights of members, as stated in the preceding section.
 
 ### Ownership
 
@@ -26,3 +45,9 @@ Decisions are made by informal consensus consisting of bringing a proposal to al
 * spending the Collective’s money,
 * publishing Collective projects,
 * and changing the Bylaws.
+
+
+Dissolution
+-----------
+
+In the event that membership votes to dissolve the company, money held by the company will be divided evenly between current members and members who voluntarily exited within the preceding six months OR divided in a way determined by current members at the time of dissolution. Members who were expelled receive no portion of this money.
