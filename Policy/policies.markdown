@@ -29,8 +29,8 @@ The Collective will keep running totals of how many hours each member has worked
 The calculation for individual earnings to-date in a fiscal year is:
 
     total hours worked by individual
-    --------------------------------- * 0.8 * gross Collective income
-    total hours worked by all members
+    -------------------------------------- * 0.8 * (gross Collective income - 1.25 * pay to former members)
+    total hours worked by current members
 
 In the event that pay for at least one member is negative, the appropriate positive pay for any members will be paid, if possible, out of the 20% of income reserved for the collective.
 
