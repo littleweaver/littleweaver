@@ -12,18 +12,13 @@ Our work is built on the work of others; we give back by providing high-quality,
 Membership
 ----------
 
-Being a member of Little Weaver Web Collective entails the following responsibilities, some of which may be waived for certain periods of time and on a case-by-case basis:
-
-* completion of the minimum number of work hours each pay period (currently 40 hrs per 4 week period).
-* attendance at all-member meetings (currently held weekly).
-* adherence to the Little Weaver mission and to its bylaws and policies.
+Being a member of Little Weaver Web Collective requires adherence to the Little Weaver mission and to its bylaws and policies. Adherence to individual policies may be waived for certain periods of time and on a case-by-case basis.
 
 Membership also comes with these rights:
 
 * being a voting participant in collective decision-making.
 * partial legal ownership of the company.
 * payment in accordance with Little Weaver policies (currently sharing 80% of profits, divided by percentage of hours worked, as detailed in “Income”).
-
 
 
 Ownership and Decision Making
