@@ -52,3 +52,11 @@ Collective Projects
 -------------------
 
 Any money brought in by Collective projects will go into the same pool as income from clients.
+
+
+Contractors
+-----------
+
+Little Weaver may sometimes wish to enlist non-members to do some work for the collective. These non-members will be contractors for Little Weaver, will not have the rights or responsibilities of members, and their relationship with Little Weaver, including payment, will be governed by a specific contract.
+
+Payment for subcontractors should either be factored into projects in advance and specified in the project proposal (in which case the money to pay the contractor will be taken prior to calculating profit, essentially passing the expense on to the client) or should otherwise be paid out of company money.
