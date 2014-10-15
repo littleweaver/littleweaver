@@ -16,6 +16,7 @@ Members may not work more than 60 hours per week, because life outside of work i
 
 Pay periods are four weeks long, starting on a Monday and ending on a Sunday. Pay periods are a part of the fiscal year in which they end. Paychecks will be cut no sooner than the weekly meeting following the end of a pay period, and no later than the Wednesday following the end of the pay period. (There is a delay between when the online request is made and when the checks are actually mailed; this is not accounted for in this policy.)
 
+
 Income
 ------
 
@@ -29,10 +30,11 @@ The Collective will keep running totals of how many hours each member has worked
 The calculation for individual earnings to-date in a fiscal year is:
 
     total hours worked by individual
-    --------------------------------- * 0.8 * gross Collective income
-    total hours worked by all members
+    -------------------------------------- * 0.8 * (gross Collective income - 1.25 * pay to former members)
+    total hours worked by current members
 
 In the event that pay for at least one member is negative, the appropriate positive pay for any members will be paid, if possible, out of the 20% of income reserved for the collective.
+
 
 Client Work
 -----------
@@ -45,7 +47,16 @@ Rates will be negotiated with every client and written into their contract. The 
 
 We require that clients agree that we may contribute to existing open-source projects as part of our work for the client. We require further that clients allow us to open-source as much of the code written for them as is reasonable.
 
+
 Collective Projects
 -------------------
 
 Any money brought in by Collective projects will go into the same pool as income from clients.
+
+
+Contractors
+-----------
+
+Little Weaver may sometimes wish to enlist non-members to do some work for the collective. These non-members will be contractors for Little Weaver, will not have the rights or responsibilities of members, and their relationship with Little Weaver, including payment, will be governed by a specific contract.
+
+Payment for subcontractors should either be factored into projects in advance and specified in the project proposal (in which case the money to pay the contractor will be taken prior to calculating profit, essentially passing the expense on to the client) or should otherwise be paid out of company money.
