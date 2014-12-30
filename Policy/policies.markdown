@@ -1,6 +1,7 @@
 Little Weaver Web Collective, LLC Policies
 ==========================================
 
+
 Work
 ----
 
@@ -15,6 +16,19 @@ Each member must work a minimum of 40 hours per four-week pay period. Work hours
 Members may not work more than 60 hours per week, because life outside of work is also important.
 
 Pay periods are four weeks long, starting on a Monday and ending on a Sunday. Pay periods are a part of the fiscal year in which they end. Paychecks will be cut no sooner than the weekly meeting following the end of a pay period, and no later than the Wednesday following the end of the pay period. (There is a delay between when the online request is made and when the checks are actually mailed; this is not accounted for in this policy.)
+
+
+### Vacation
+
+Starting in 2015, each member receives 28 vacation days per year. Vacation days are recorded per pay period, in increments no finer than half-days. It is preferable that use of vacation days be announced at the end of the preceding pay period, and that vacation days be assigned to specific dates when a member will not be working, but this is not required. In the last pay period of the year, any unused vacation days will automatically be added to that pay period.
+
+Each day of vacation taken by a given member counts as though that member had worked a day of average length for that member in that fiscal year. The calculation for vacation hours worked by an individual to-date is:
+
+    total hours worked to-date
+    --------------------------- * vacation days taken to-date
+    days elapsed in year
+
+When calculating earnings to-date, this figure is added into the total hours worked by each member, both in `total hours worked by individual` and `total hour worked by current members`.
 
 
 Income
