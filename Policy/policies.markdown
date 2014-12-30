@@ -28,7 +28,7 @@ Each day of vacation taken by a given member counts as though that member had wo
     --------------------------- * vacation days taken to-date
     days elapsed in year
 
-When calculating earnings to-date, this figure is added into the total hours worked by each member, both in `total hours worked by individual` and `total hour worked by current members`.
+When calculating earnings to-date, this figure is added into the total hours worked by each member, both in `total hours worked by individual` and `total hours worked by current members`.
 
 
 Income
