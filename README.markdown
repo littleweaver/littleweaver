@@ -9,7 +9,7 @@ brand resources.
 
 [Bylaws](https://github.com/littleweaver/littleweaver/blob/master/Policy/bylaws.markdown)
 
-[Policies](https://github.com/littleweaver/littleweaver/blob/master/Policy/policy.markdown)
+[Policies](https://github.com/littleweaver/littleweaver/blob/master/Policy/policies.markdown)
 
 ### Brand
 
