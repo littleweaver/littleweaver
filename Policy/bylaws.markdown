@@ -42,7 +42,7 @@ The following are rights of members, as stated in the preceding section.
 
 ### Ownership
 
-All members of the Collective legally have equal ownership of the Collective’s assets, but the Collective’s assets are considered to be set aside for the use by the entire Collective. Therefore, if a member leaves, they do not receive any portion of the Collective’s assets. Upon dissolution, savings will by default be divided equally among all members.
+All members of the Collective legally have equal ownership of the Collective’s assets, but the Collective’s assets are considered to be set aside for the use by the entire Collective. Therefore, if a member leaves, they do not receive any portion of the Collective’s assets. Upon dissolution, savings will by default be divided equally among all members. For the purpose of taxation, ownership of the Collective's assets is divided equally among all members.
 
 ### Collective Decision-Making
 
