@@ -30,6 +30,8 @@ Each day of vacation taken by a given member counts as though that member had wo
 
 When calculating earnings to-date, this figure is added into the total hours worked by each member, both in `total hours worked by individual` and `total hours worked by current members`.
 
+When considering whether a member has worked the minimum number of hours required in a pay period, an additional `10÷7` hours, approximately `1.43`, per vacation day taken that pay period will be added to the number of real hours worked, because that is the mean number of hours per day required to meet the minimum.
+
 
 Income
 ------
