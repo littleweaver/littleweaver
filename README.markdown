@@ -13,12 +13,12 @@ brand resources.
 
 ### Brand
 
-**Logo**:
+**Logo (svg)**:
 [Large](https://github.com/littleweaver/littleweaver/blob/master/Brand/logo-large.svg)
 / [Small](https://github.com/littleweaver/littleweaver/blob/master/Brand/logo-small.svg)
 / [Color](https://github.com/littleweaver/littleweaver/blob/master/Brand/logo-color.svg)
 
-**Avatar**:
+**Avatar (png)**:
 
 ![](https://github.com/littleweaver/littleweaver/blob/master/Brand/avatar-small.png)
 
