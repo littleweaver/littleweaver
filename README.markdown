@@ -13,8 +13,6 @@ brand resources.
 
 ### Brand
 
-### Brand
-
 **[Logo (svg)](https://github.com/littleweaver/littleweaver/blob/master/Brand/logo.svg)**
 
 **Avatar (png)**:
