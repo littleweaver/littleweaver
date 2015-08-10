@@ -18,13 +18,22 @@ Members may not work more than 60 hours per week, because life outside of work i
 
 Pay periods are two weeks long, starting on a Monday and ending on a Sunday.
 Pay periods are a part of the fiscal year in which they end.
-Paychecks will be cut no sooner than the weekly meeting following the end of a pay period, and no later than the Wednesday following the end of the pay period.
-(There is a delay between when the online request is made and when the checks are actually mailed; this is not accounted for in this policy.)
 
 Each pay period contains 10 work days and 4 weekend days.
 On weekend days, members are not expected to be available, but also are not prohibited from working.
 Members should notify the Collective when their weekend days and work days are arranged such that not all weekend days are Saturdays and Sundays.
 It is preferable that this be done at the end of the preceding pay period, but marking on the calendar the day the change takes effect is sufficient.
+
+
+### Pay
+
+At the end of every two-week pay period, each member will receive pay up to the least of the following, if that pay will be at least $25:
+
+* $20 per hour worked, including vacation time,
+* and $75,000 in a fiscal year, calculated pro rata each pay period.
+
+Paychecks will be cut only with the approval of all members, and no later than the Wednesday following the end of the pay period.
+(There is a delay between when the online request is made and when the checks are actually mailed; this is not accounted for in this policy.)
 
 
 ### Vacation
@@ -37,14 +46,6 @@ In the last pay period of the year, any unused vacation days will automatically 
 Each day of vacation taken by a given member counts as 6 hours of work.
 
 When considering whether a member has worked the minimum number of hours required in a pay period, an additional 2 hours per vacation day taken that pay period will be added to the number of real hours worked, because that is the mean number of hours per day required to meet the minimum.
-
-
-### Pay
-
-At the end of every two-week pay period, each member will receive pay up to the least of the following, if that pay will be at least $25:
-
-* $20 per hour worked, including vacation time,
-* and $75,000 in a fiscal year, calculated pro rata each pay period.
 
 
 Client Work
