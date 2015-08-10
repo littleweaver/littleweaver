@@ -39,11 +39,8 @@ Each day of vacation taken by a given member counts as 6 hours of work.
 When considering whether a member has worked the minimum number of hours required in a pay period, an additional 2 hours per vacation day taken that pay period will be added to the number of real hours worked, because that is the mean number of hours per day required to meet the minimum.
 
 
-Income
-------
+### Pay
 
-
-The Collective will keep running totals of how many hours each member has worked and how much income the Collective has received.
 At the end of every two-week pay period, each member will receive pay up to the least of the following, if that pay will be at least $25:
 
 * $20 per hour worked, including vacation time,
