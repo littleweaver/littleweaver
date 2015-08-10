@@ -23,12 +23,11 @@ Membership also comes with the following rights:
 
 * being a voting participant in collective decision-making.
 * partial legal ownership of the company.
-* payment in accordance with Little Weaver policies (currently sharing 80% of profits, divided by percentage of hours worked, as detailed in “Income”).
+* payment in accordance with Little Weaver policies.
 
 ### Exit
 
 A member does not receive any portion of the company money upon exit.
-Pay calculation is not affected for the period in which the member leaves.
 
 #### Voluntary Exit
 
