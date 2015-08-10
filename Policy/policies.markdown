@@ -68,6 +68,26 @@ We require that clients agree that we may contribute to existing open-source pro
 We require further that clients allow us to open-source as much of the code written for them as is reasonable.
 
 
+Process for New Membership
+--------------------------
+
+Prospective members will work for a minimum of 12 weeks in a trial membership period.
+They will have the rights and requirements specified below:
+
+- They will be required to work a minimum of 20 hours per two-week pay period.
+- They will be paid as contractors at the same rate as members.
+- They will be expected to attend business meetings as members are.
+- After the first month, they will be expected to participate in decision-making (Thursday) meetings. (Prior to that, they may only participate if specifically invited.)
+- Their contributions in meetings will be taken seriously, but their approval will not be *required* for decisions.
+
+The existing membership will meet within two weeks of the end of the trial period to determine whether to accept the prospective member as a member of the Collective.
+The prospective member may make a statement of their interest in joining the Collective, but it is not a requirement.
+
+If the prospective member is not accepted by the Collective, the collective *may* offer them the opportunity to continue working as a prospective member, and be reconsidered for membership after another 12 weeks.
+This is to be used in instances when it is still not clear whether Little Weaver and the prospective member are a good fit after the first trial period and more time is needed to assess.
+This cannot be renewed for a consecutive third trial period, i.e., a person may only be a prospective member for up to 24 weeks.
+
+
 Contractors
 -----------
 
