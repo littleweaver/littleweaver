@@ -29,7 +29,7 @@ It is preferable that this be done at the end of the preceding pay period, but m
 
 ### Vacation
 
-Starting in 2015, each member receives 20 vacation days per year.
+Starting in 2016, each member receives 26 vacation days per year.
 Vacation days are recorded per pay period, in increments no finer than half-days.
 It is preferable that use of vacation days be announced at least one month in advance, and that vacation days be assigned to specific work days when a member will not be working, but this is not required.
 In the last pay period of the year, any unused vacation days will automatically be added to that pay period.
