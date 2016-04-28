@@ -18,8 +18,6 @@ Members may not work more than 60 hours per week, because life outside of work i
 
 Pay periods are two weeks long, starting on a Monday and ending on a Sunday.
 Pay periods are a part of the fiscal year in which they end.
-Paychecks will be cut no sooner than the weekly meeting following the end of a pay period, and no later than the Wednesday following the end of the pay period.
-(There is a delay between when the online request is made and when the checks are actually mailed; this is not accounted for in this policy.)
 
 Each pay period contains 10 work days and 4 weekend days.
 On weekend days, members are not expected to be available, but also are not prohibited from working.
@@ -41,10 +39,8 @@ When considering whether a member has worked the minimum number of hours require
 
 ### Pay
 
-At the end of every two-week pay period, each member will receive pay up to the least of the following, if that pay will be at least $25:
-
-* $20 per hour worked, including vacation time,
-* and $75,000 in a fiscal year, calculated pro rata each pay period.
+All members will be paid the same hourly rate of $25 USD per hour worked.
+Work in excess of 40 hours in a week will be paid at a rate of 1.5 times the current rate of pay.
 
 
 Client Work
