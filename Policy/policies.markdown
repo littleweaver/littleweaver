@@ -39,7 +39,7 @@ When considering whether a member has worked the minimum number of hours require
 
 ### Pay
 
-All members will be paid the same hourly rate.
+All members will be paid the same hourly rate of $25/hr.
 Work in excess of 40 hours in a week will be paid at a rate of 1.5 times the current rate of pay.
 
 
