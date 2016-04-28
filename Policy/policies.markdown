@@ -39,7 +39,8 @@ When considering whether a member has worked the minimum number of hours require
 
 ### Pay
 
-All members will be paid the same hourly rate. Work in excess of 35 hours in a week will be paid at a rate of 1.5 times the current rate of pay.
+All members will be paid the same hourly rate.
+Work in excess of 40 hours in a week will be paid at a rate of 1.5 times the current rate of pay.
 
 
 Client Work
