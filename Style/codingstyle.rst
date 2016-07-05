@@ -58,8 +58,8 @@ Imports should be grouped in four overall sections:
 1. System. This will probably not happen in the react app, but
    would include things like babel-polyfill and node imports.
 2. Core Libraries. Things our application is really
-   foundationally built on, in particular: `react`, `react-redux`,
-   `redux`, `react-router`.
+   foundationally built on, in particular: ``react``, ``react-redux``,
+   ``redux``, ``react-router``.
 3. Libraries. Any other libraries.
 4. Local. Any code from our application.
 
@@ -67,9 +67,9 @@ The four groups should be separated by a single blank line each.
 Within each group, imports should be sorted alphabetically by
 filename. Imports which destructure more than one item should
 always be split onto multiple lines. Destructured items should
-be alphabetically ordered. `import *` should be avoided as it
+be alphabetically ordered. ``import *`` should be avoided as it
 makes checks of available variables more difficult and delays
 import errors until runtime.
 
-Import paths for local code should always be relative to `~`
-rather than using `.` or `..`.
+Import paths for local code should always be relative to ``~``
+rather than using ``.`` or ``..``.
