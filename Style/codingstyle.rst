@@ -47,9 +47,6 @@ otherwise make the code more legible.
 Within a set of JSX elements, high-level organizational siblings
 should be separated by a blank line.
 
-TODO: guidelines re: line length / function indentation / callbacks
-Maybe use Airbnb's general javascript style guide?
-
 Imports
 -------
 
