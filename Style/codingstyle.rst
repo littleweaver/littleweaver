@@ -1,6 +1,15 @@
 Coding Style
 ============
 
+Indentation and Line Endings
+++++++++++++++++++++++++++++
+
+This rule applies to all languages and projects.
+Always develop with the `Editor Config <http://editorconfig.org/>`_ plugin enabled for your editor.
+Refer to the Little Weaver
+`.editorconfig <https://github.com/littleweaver/littleweaver/blob/master/Style/.editorconfig>`_
+configuration for rules related to indentation and line endings per language.
+
 Python
 ++++++
 
@@ -28,8 +37,6 @@ point.)
 
 Spacing
 -------
-
-Indent using tabs.
 
 Similar to python, module-level objects should be separated by
 two blank lines, and class-level objects (like methods) should be
